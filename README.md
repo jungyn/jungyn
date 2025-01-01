@@ -1,6 +1,6 @@
 ## Hi, I'm Yang Jung Yoon 👋
 
-[<script src="https://gist.github.com/jungyn/03edfea795edf493b04030ba020b4d35.js"></script>]
+[View my Gist](https://gist.github.com/jungyn/03edfea795edf493b04030ba020b4d35)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyn&layout=compact)](https://github.com/jungyn/github-readme-stats)
 
