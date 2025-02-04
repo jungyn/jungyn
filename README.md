@@ -4,6 +4,7 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 	<p> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> </p>
+	<p>  </p>
 </div>
 <div align="center">
 	
@@ -18,9 +19,14 @@
 <br>
 
 <div align=center>
-  
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julieearth)](https://solved.ac/julieearth/)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyn&layout=compact)](https://github.com/jungyn/github-readme-stats)
 
+</div>
+
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api?username=jungyn&show_icons=true">
 </div>
 
 <div align=center>
@@ -29,7 +35,7 @@
   
 </div>
 
-<!--github stats 일단 생략 <img src="https://github-readme-stats.vercel.app/api?username=jungyn&show_icons=true">-->
+
 
 
 
